@@ -1,5 +1,5 @@
 <h1>First Templet and First Project in Programming </h1>
-<p>Thanks to <a herf="https://elzero.org/">Elzero</a> This Code is here</p>
+<p>Thanks to <a href="https://elzero.org/">Elzero</a> This Code is here</p>
 IT'S NOT FULLY RESPONSIVE 
 <h2>Demo</h2>
 <br>
